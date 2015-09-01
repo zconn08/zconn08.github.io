@@ -1016,6 +1016,12 @@ footer {
 .social-icons.hover-big .sicon-linkedin:hover {
   background-color: #1E79C0;
 }
+
+.social-icons.hover-big .sicon-github:hover {
+  background-color: #1E79C0;
+}
+
+
 .social-icons.hover-big .sicon-youtube:hover {
   background-color: #FF0000;
 }
